@@ -11,7 +11,6 @@ package hello.world;
 public class HelloWorld {
 
     /**modified
-     * modified third commit
      * @param args the command line arguments
      */
     public static void main(String[] args) {
